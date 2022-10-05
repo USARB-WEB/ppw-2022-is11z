@@ -23,6 +23,7 @@ chilatsergiu@gmail.com
 ## Tools for design
 - Figma https://figma.com
 - Figma template https://www.figma.com/file/N6pJfdausO5qWrCrNlCjTG/Woodies
+- Figma to HTML tutorial https://www.youtube.com/watch?v=aBLNtzhiYpo
 
 ## Online editors
 - https://codesandbox.io/
