@@ -20,6 +20,10 @@ chilatsergiu@gmail.com
 - Notepad ++ https://notepad-plus-plus.org/downloads/
 - WebStorm https://www.jetbrains.com/webstorm/
 
+## Tools for design
+- Figma https://figma.com
+- Figma template https://www.figma.com/file/N6pJfdausO5qWrCrNlCjTG/Woodies
+
 ## Online editors
 - https://codesandbox.io/
 
