@@ -1,0 +1,29 @@
+.square{
+    border: 1px dotted blue;
+    width: 100px;
+    height: 80px;
+    font-size: 23px;
+}
+
+.circle{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.orange{
+    background-color: orange;
+}
