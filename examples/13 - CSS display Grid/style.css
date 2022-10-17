@@ -1,0 +1,51 @@
+.grid-container-gtc-fixed{
+    display: grid;
+    grid-template-columns: 50px 150px 50px;
+}
+
+.grid-container-gtc-fixed div{
+    border: 1px solid red;
+}
+
+
+.grid-container-gtc-fixed-repeat{
+    display: grid;
+    grid-template-columns: repeat(3, 50px);
+}
+
+.grid-container-gtc-fixed-repeat div{
+    border: 1px solid red;
+}
+
+
+.grid-container-gtc-auto{
+    display: grid;
+    grid-template-columns: 50px auto 50px;
+}
+
+.grid-container-gtc-auto div{
+    border: 1px solid red;
+}
+
+.grid-container-gtr{
+    display: grid;
+    grid-template-columns: 50px auto 50px;
+    grid-template-rows: 50px 100px;
+}
+
+.grid-container-gtr div{
+    border: 1px solid red;
+}
+
+.grid-gap{
+    display: grid;
+    grid-template-columns: 50px auto 50px;
+    grid-template-rows: 50px 100px;
+    /* column-gap: 10px;
+    row-gap: 10px; */
+    gap: 10px;
+}
+
+.grid-gap div{
+    border: 1px solid red;
+}
