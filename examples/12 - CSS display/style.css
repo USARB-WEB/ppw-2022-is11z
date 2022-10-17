@@ -1,0 +1,47 @@
+div{
+    width: 100px;
+    border: 1px solid red;
+    display: inline;
+}
+
+span{
+    width: 100px;
+    border: 1px solid red;
+    display: block;
+}
+
+
+nav.inline-block{
+    font-size: 0;
+}
+
+nav.inline-block a{
+    border: 1px solid gray;
+    display: inline-block;
+    width: 25%;
+    font-size: 16px;
+}
+
+nav.flex{
+    display: flex;
+}
+
+nav.flex a{
+    border: 1px solid gray;
+    display: inline-block;
+    width: 20%;
+}
+
+nav.grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+nav.grid a{
+    border: 1px solid gray;
+    display: inline-block;
+    width: 100%;
+}
+
+
+
