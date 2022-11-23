@@ -1,0 +1,59 @@
+nav{
+    display: flex;
+}
+
+nav a{
+    border: 1px solid blue;
+    width: 100%;
+    background-color: lightblue;
+    padding: 1em;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: azure;
+    text-decoration: none;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 5em;
+}
+
+
+@media screen and (max-width: 600px){
+    #logo{
+        display: none;
+    }
+    nav{
+        display: block;
+    }
+
+    nav a{
+        display: inline-block;
+        width: 25%;
+    }
+
+    body{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 300px){
+    nav{
+        display: block;
+    }
+
+    nav a{
+        display: block;
+        width: 100%;
+    }
+
+    body{
+        font-size: 18px;
+    }
+}
