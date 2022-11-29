@@ -1,0 +1,39 @@
+.grey-background{
+    background-color: grey;
+}
+
+.stripped li:nth-child(odd){
+    background-color: grey;
+}
+
+.stripped li:nth-child(3n+2){
+    color: yellow;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.stripped li:last-child{
+    background-color: green;
+}
+
+.with-before{
+    background-color: red;
+}
+
+.with-before::before{
+    content: "*";
+    background-color: violet;
+    width: 4em;
+    display: inline-block;
+}
+
+.with-after{
+    background-color: blue;
+}
+
+.with-after::after{
+    content: "*";
+    background-color: cyan;
+    width: 4em;
+    display: inline-block;
+}

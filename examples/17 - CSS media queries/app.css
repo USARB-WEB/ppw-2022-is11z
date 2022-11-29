@@ -57,3 +57,7 @@ footer{
         font-size: 18px;
     }
 }
+
+@media print{
+   
+}
