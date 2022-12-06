@@ -11,6 +11,9 @@ chilatsergiu@gmail.com
 # Tutorials
 - HTML https://www.w3schools.com/html/
 - Git video tutorial https://www.youtube.com/watch?v=8JJ101D3knE
+- Bootstrap https://getbootstrap.com/docs/5.0/getting-started/introduction/
+- Firebase https://docs.google.com/presentation/d/1-rgotyEptZsHu58FlyGyk6qRfsvuet7BSXN2B4fKa1s/edit?usp=sharing
+- JavaScript https://javascript.info/
 
 # Tools and editors
 ## Offline editors
